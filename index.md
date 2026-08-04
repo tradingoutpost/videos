@@ -14,4 +14,5 @@ The channel: [@TradingOutpost](https://www.youtube.com/@TradingOutpost)
 ## Every video
 
 <!-- pages:start -->
+- [What Actually Takes A Stop Loss Out](/what-actually-takes-a-stop-loss-out/)
 <!-- pages:end -->
