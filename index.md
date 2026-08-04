@@ -14,5 +14,6 @@ The channel: [@TradingOutpost](https://www.youtube.com/@TradingOutpost)
 ## Every video
 
 <!-- pages:start -->
+- [Two VWAP Trades, And When To Take Each](/two-vwap-trades-and-when-to-take-each/)
 - [What Actually Takes A Stop Loss Out](/what-actually-takes-a-stop-loss-out/)
 <!-- pages:end -->
