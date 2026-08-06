@@ -15,6 +15,7 @@ The channel: [@TradingOutpost](https://www.youtube.com/@TradingOutpost)
 
 <!-- pages:start -->
 - [Stop Chasing The Breakout Candle, Wait For This Instead](/avoid-this-breakout-mistake/)
+- [Your Stop Was Never Wrong. It Was Just Too Close.](/avoid-this-scalping-mistake/)
 - [Two VWAP Trades, And When To Take Each](/two-vwap-trades-and-when-to-take-each/)
 - [What Actually Takes A Stop Loss Out](/what-actually-takes-a-stop-loss-out/)
 <!-- pages:end -->
