@@ -15,6 +15,7 @@ The channel: [@TradingOutpost](https://www.youtube.com/@TradingOutpost)
 
 <!-- pages:start -->
 - [Candlestick Patterns Fail Without This One Thing](/candlesticks-this-edge/)
+- [Right About The Trend, Wrong About The Entry](/avoid-this-trend-trading-mistake/)
 - [Most Supply & Demand Zones Are Worthless (Without This)](/most-supply-and-demand-zones-are-worthless/)
 - [Top 5 Trading Strategies Explained in 10 Minutes](/top-5-trading-strategies-explained-in-10-minutes/)
 - [One Divergence Mistake Ruins Entries](/one-divergence-mistake-ruins-entries/)
