@@ -14,6 +14,7 @@ The channel: [@TradingOutpost](https://www.youtube.com/@TradingOutpost)
 ## Every video
 
 <!-- pages:start -->
+- [The Pullback Mistake That Traps Most Traders](/avoid-this-pullback-mistake/)
 - [Why A Perfect Backtest Falls Apart In Live Trading](/5-reasons-your-backtest-wont-survive-live-trading/)
 - [Why Your Breakouts Keep Failing, and What to Check](/stop-getting-trapped-by-false-breakouts/)
 - [Candlestick Patterns Fail Without This One Thing](/candlesticks-this-edge/)
