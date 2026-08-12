@@ -16,6 +16,7 @@ The channel: [@TradingOutpost](https://www.youtube.com/@TradingOutpost)
 <!-- pages:start -->
 - [The Pullback Mistake That Traps Most Traders](/avoid-this-pullback-mistake/)
 - [Why Your Candlestick Patterns Keep Failing](/the-candlestick-trap-that-fools-most-traders/)
+- [Your Divergence Trades Are Fighting The Trend](/stop-trading-every-divergence/)
 - [Your Entry Is Fine. Everything Around It Is Not.](/the-entry-mistake-most-traders-never-fix/)
 - [Your Stop Loss Has A Job You Never Agreed To](/the-liquidity-trap-smart-money-uses-against-you/)
 - [Your TradingView Layout Is Costing You Trades](/the-tradingview-mistake-nobody-talks-about/)
