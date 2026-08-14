@@ -14,6 +14,7 @@ The channel: [@TradingOutpost](https://www.youtube.com/@TradingOutpost)
 ## Every video
 
 <!-- pages:start -->
+- [Your Break Of Structure Is Costing You Trends](/this-market-structure-mistake-changes-everything/)
 - [The Number That Blows Accounts Is Not Your Entry](/the-position-sizing-error-that-blows-accounts/)
 - [The Pullback Mistake That Traps Most Traders](/avoid-this-pullback-mistake/)
 - [Why Your Candlestick Patterns Keep Failing](/the-candlestick-trap-that-fools-most-traders/)
