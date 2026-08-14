@@ -15,6 +15,7 @@ The channel: [@TradingOutpost](https://www.youtube.com/@TradingOutpost)
 
 <!-- pages:start -->
 - [You Are Reading The Trend Correctly And Still Losing](/the-trend-trading-mistake-that-wrecks-profits/)
+- [Your Backtest Is Lying To You Right Now](/this-backtesting-mistake-gives-fake-confidence/)
 - [Your Break Of Structure Is Costing You Trends](/this-market-structure-mistake-changes-everything/)
 - [The Number That Blows Accounts Is Not Your Entry](/the-position-sizing-error-that-blows-accounts/)
 - [The Pullback Mistake That Traps Most Traders](/avoid-this-pullback-mistake/)
