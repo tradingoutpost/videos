@@ -14,6 +14,7 @@ The channel: [@TradingOutpost](https://www.youtube.com/@TradingOutpost)
 ## Every video
 
 <!-- pages:start -->
+- [The Half Of Every Trade Nobody Reviews](/your-take-profit-strategy-might-be-costing-you/)
 - [You Are Reading The Trend Correctly And Still Losing](/the-trend-trading-mistake-that-wrecks-profits/)
 - [Your Backtest Is Lying To You Right Now](/this-backtesting-mistake-gives-fake-confidence/)
 - [Your Break Of Structure Is Costing You Trends](/this-market-structure-mistake-changes-everything/)
