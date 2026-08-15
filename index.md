@@ -15,6 +15,7 @@ The channel: [@TradingOutpost](https://www.youtube.com/@TradingOutpost)
 
 <!-- pages:start -->
 - [The Half Of Every Trade Nobody Reviews](/your-take-profit-strategy-might-be-costing-you/)
+- [Your Twenty Pip Stop Is Costing You Good Trades](/this-stop-loss-mistake-is-killing-your-trades/)
 - [You Are Reading The Trend Correctly And Still Losing](/the-trend-trading-mistake-that-wrecks-profits/)
 - [Your Backtest Is Lying To You Right Now](/this-backtesting-mistake-gives-fake-confidence/)
 - [Your Break Of Structure Is Costing You Trends](/this-market-structure-mistake-changes-everything/)
