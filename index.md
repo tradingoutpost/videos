@@ -14,6 +14,7 @@ The channel: [@TradingOutpost](https://www.youtube.com/@TradingOutpost)
 ## Every video
 
 <!-- pages:start -->
+- [The Stochastic Signal That Traps New Traders Often](/the-stochastic-signal-that-traps-new-traders/)
 - [The Half Of Every Trade Nobody Reviews](/your-take-profit-strategy-might-be-costing-you/)
 - [Your Risk Management Is Probably Broken](/your-risk-management-is-probably-broken/)
 - [Your Support And Resistance Levels Are Costing You Money](/why-your-support-and-resistance-levels-keep-failing/)
