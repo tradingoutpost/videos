@@ -14,6 +14,7 @@ The channel: [@TradingOutpost](https://www.youtube.com/@TradingOutpost)
 ## Every video
 
 <!-- pages:start -->
+- [Stop Using MACD Like Every Retail Trader Uses It](/use-macd-like-institutional-traders/)
 - [This Trading Correlation Trap Fools Smart Traders](/crazy-correlations-trading/)
 - [Your Chart Needs 100 Indicators Or It Is Guessing](/100-indicators-is-the-best-choice/)
 - [The Cheese Indicator Has Holes Most Traders Miss](/cheese-indicator/)
