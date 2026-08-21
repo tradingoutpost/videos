@@ -14,6 +14,7 @@ The channel: [@TradingOutpost](https://www.youtube.com/@TradingOutpost)
 ## Every video
 
 <!-- pages:start -->
+- [This Trading Correlation Trap Fools Smart Traders](/crazy-correlations-trading/)
 - [The Cheese Indicator Has Holes Most Traders Miss](/cheese-indicator/)
 - [The Stochastic Signal That Traps New Traders Often](/the-stochastic-signal-that-traps-new-traders/)
 - [The Half Of Every Trade Nobody Reviews](/your-take-profit-strategy-might-be-costing-you/)
