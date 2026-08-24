@@ -15,6 +15,7 @@ The channel: [@TradingOutpost](https://www.youtube.com/@TradingOutpost)
 
 <!-- pages:start -->
 - [The Strangest Trading Request You Should Answer](/should-you-fund-a-broke-trader/)
+- [This Trading Rule Makes Losing Almost Impossible](/never-exit-until-profit/)
 - [Your Gut Might Beat The Watchlist You Trust Most](/blindfold-dart-map-investing/)
 - [Never Average Down A Losing Trade Like This Again](/never-average-down-a-losing-trade/)
 - [Stop Using MACD Like Every Retail Trader Uses It](/use-macd-like-institutional-traders/)
