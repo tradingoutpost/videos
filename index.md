@@ -14,6 +14,7 @@ The channel: [@TradingOutpost](https://www.youtube.com/@TradingOutpost)
 ## Every video
 
 <!-- pages:start -->
+- [The Strangest Trading Request You Should Answer](/should-you-fund-a-broke-trader/)
 - [Never Average Down A Losing Trade Like This Again](/never-average-down-a-losing-trade/)
 - [Stop Using MACD Like Every Retail Trader Uses It](/use-macd-like-institutional-traders/)
 - [This Trading Correlation Trap Fools Smart Traders](/crazy-correlations-trading/)
