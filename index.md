@@ -14,6 +14,7 @@ The channel: [@TradingOutpost](https://www.youtube.com/@TradingOutpost)
 ## Every video
 
 <!-- pages:start -->
+- [Stop Letting TradingView Timeframes Save Bad Trades](/stop-using-every-tradingview-timeframe/)
 - [The Strangest Trading Request You Should Answer](/should-you-fund-a-broke-trader/)
 - [This Trading Rule Makes Losing Almost Impossible](/never-exit-until-profit/)
 - [Your Gut Might Beat The Watchlist You Trust Most](/blindfold-dart-map-investing/)
