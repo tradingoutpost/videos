@@ -14,6 +14,7 @@ The channel: [@TradingOutpost](https://www.youtube.com/@TradingOutpost)
 ## Every video
 
 <!-- pages:start -->
+- [Your Breakeven Stop Is Killing Your Best Trades](/stopping-moving-your-stop-to-breakeven/)
 - [Stop Letting TradingView Timeframes Save Bad Trades](/stop-using-every-tradingview-timeframe/)
 - [The Strangest Trading Request You Should Answer](/should-you-fund-a-broke-trader/)
 - [This Trading Rule Makes Losing Almost Impossible](/never-exit-until-profit/)
