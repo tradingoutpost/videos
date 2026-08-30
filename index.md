@@ -14,6 +14,7 @@ The channel: [@TradingOutpost](https://www.youtube.com/@TradingOutpost)
 ## Every video
 
 <!-- pages:start -->
+- [The RSI Mistake That Makes Traders Fight The Trend](/use-rsi-indicators-like-a-pro/)
 - [MACD Is Lying To You At The Worst Possible Moment](/macd-is-lying-to-you/)
 - [Your Breakeven Stop Is Killing Your Best Trades](/stopping-moving-your-stop-to-breakeven/)
 - [Stop Letting TradingView Timeframes Save Bad Trades](/stop-using-every-tradingview-timeframe/)
