@@ -15,6 +15,7 @@ The channel: [@TradingOutpost](https://www.youtube.com/@TradingOutpost)
 
 <!-- pages:start -->
 - [Your Moving Average Crossover Is Probably Too Late](/moving-average-crossover-trap/)
+- [Your VWAP Entries Are Failing For One Simple Reason](/mastering-vwap-entries/)
 - [Stop Using Stochastic Until You See The Real Trap](/use-stochastic-like-a-pro/)
 - [The RSI Mistake That Makes Traders Fight The Trend](/use-rsi-indicators-like-a-pro/)
 - [MACD Is Lying To You At The Worst Possible Moment](/macd-is-lying-to-you/)
