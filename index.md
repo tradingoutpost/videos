@@ -16,6 +16,7 @@ The channel: [@TradingOutpost](https://www.youtube.com/@TradingOutpost)
 <!-- pages:start -->
 - [The 3:1 Setup Is Not What Most Traders Really Think](/three-to-one-trading-setup-explained/)
 - [The Perfect Pullback Entry Is Later Than You Think](/perfect-pullback-entry/)
+- [This Scalping Strategy Punishes Impatient Traders](/vwap-opening-range-scalping-strategy/)
 - [Yesterday's High Is Not The Trade You Think It Is](/previous-day-high-low-trading-trap/)
 - [Your TradingView Setup Is Making You Trade Worse](/three-tradingview-mistakes-that-cost-traders/)
 - [Your Moving Average Crossover Is Probably Too Late](/moving-average-crossover-trap/)
