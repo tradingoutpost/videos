@@ -14,6 +14,7 @@ The channel: [@TradingOutpost](https://www.youtube.com/@TradingOutpost)
 ## Every video
 
 <!-- pages:start -->
+- [The Perfect Pullback Entry Is Later Than You Think](/perfect-pullback-entry/)
 - [Your Moving Average Crossover Is Probably Too Late](/moving-average-crossover-trap/)
 - [Your VWAP Entries Are Failing For One Simple Reason](/mastering-vwap-entries/)
 - [Stop Using Stochastic Until You See The Real Trap](/use-stochastic-like-a-pro/)
