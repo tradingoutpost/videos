@@ -14,6 +14,7 @@ The channel: [@TradingOutpost](https://www.youtube.com/@TradingOutpost)
 ## Every video
 
 <!-- pages:start -->
+- [Your Best Looking Pin Bar Could Be Completely Useless](/the-secret-to-trading-pin-bars/)
 - [The 3:1 Setup Is Not What Most Traders Really Think](/three-to-one-trading-setup-explained/)
 - [The Perfect Pullback Entry Is Later Than You Think](/perfect-pullback-entry/)
 - [This Scalping Strategy Punishes Impatient Traders](/vwap-opening-range-scalping-strategy/)
