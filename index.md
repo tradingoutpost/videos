@@ -16,6 +16,7 @@ The channel: [@TradingOutpost](https://www.youtube.com/@TradingOutpost)
 <!-- pages:start -->
 - [Oil Is Rising and Your Strategy May Be Reading It Wrong](/rising-oil-prices-strategy-trap/)
 - [Your Breakout Can Look Strong for the Wrong Reason](/session-timing-changes-the-market/)
+- [Your Next Trade Could Turn One Loss Into a Disaster](/the-trade-after-a-loss/)
 - [Your Best Looking Pin Bar Could Be Completely Useless](/the-secret-to-trading-pin-bars/)
 - [The 3:1 Setup Is Not What Most Traders Really Think](/three-to-one-trading-setup-explained/)
 - [The Perfect Pullback Entry Is Later Than You Think](/perfect-pullback-entry/)
